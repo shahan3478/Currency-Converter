@@ -15,11 +15,11 @@ A streamlined and user-friendly **Currency Converter** built with vanilla web te
 
 ## 🛠️ Project Structure
 
-The repository is organized into three core files located within the `Currency-Converter-main` directory[cite: 2]:
+The repository is organized into three core files located within the `Currency-Converter-main` directory:
 
-*   **`index.html`**: The structural foundation of the application, defining the input fields and selection menus[cite: 2].
-*   **`style.css`**: Provides the visual styling, layout, and responsive design elements[cite: 2].
-*   **`script.js`**: Contains the logic for fetching exchange data and performing the conversion calculations[cite: 2].
+*   **`index.html`**: The structural foundation of the application, defining the input fields and selection menus.
+*   **`style.css`**: Provides the visual styling, layout, and responsive design elements.
+*   **`script.js`**: Contains the logic for fetching exchange data and performing the conversion calculations.
 
 ---
 
@@ -44,5 +44,5 @@ To get this project running on your local machine:
     cd Currency-Converter-main
     ```
 3.  **Launch the app**:
-    Simply open the `index.html` file in your preferred web browser[cite: 2].
+    Simply open the `index.html` file in your preferred web browser.
 ```
